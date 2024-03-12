@@ -1,4 +1,5 @@
 import streamlit as st
+import sklearn
 import pandas as pd #importing libraries
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
