@@ -140,7 +140,7 @@ with col1:
 
 #fix province and cities
 st.sidebar.header("About")
-st.sidebar.write("Quickly and efficently estimate the price of your home by doing the following.")
+st.sidebar.write("Quickly and efficently estimate the price of your home.")
 
 st.sidebar.header("Guide")
 st.sidebar.write("Have you recently bought or sold an house? Help improve our program by providing some simple data in the Improve our System page")
