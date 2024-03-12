@@ -38,7 +38,7 @@ def predict(beds, baths, city, province):
 st.set_page_config(
     page_icon="🏠"
 )
-st.header("Home Price Estimator")
+st.header("🏠Home Price Estimator")
 with st.popover("Advance Filters"):
     st.header("Advance Filters")
 
